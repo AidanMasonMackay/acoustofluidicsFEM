@@ -1,2 +1,2 @@
 # acoustofluidicsFEM
-A library for modelling acoustofluidic devices
+A finite element library for modelling acoustofluidic devices
